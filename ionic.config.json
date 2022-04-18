@@ -1,0 +1,7 @@
+{
+  "name": "U315Ux",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
